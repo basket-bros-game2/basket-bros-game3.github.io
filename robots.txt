@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+User-agent: Googlebot
+Allow: /
+
+# Allow AdSense-related resources
+Allow: /pagead/js/adsense/
+
+# Sitemap
+Sitemap: https://chillguy-clicker.gitlab.io/sitemap.xml
